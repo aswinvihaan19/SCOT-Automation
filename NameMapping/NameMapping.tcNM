@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{76885307-AD08-4234-BD4A-F6C67EAD50D9}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="tpiscan" Key="{43554811-33DF-4C43-944E-E3F48B908DC8}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="tpiscan" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="2" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="stageDnEasyExpressNcNcDnEasyProN" Key="{802FC8DF-AF32-4CB4-8C20-ABD8B1321A32}">
+								<Image FileName="1417973223" Left="0" Top="0" Right="1024" Bottom="768" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="javafx.stage.Stage" />
+									</Property>
+									<Property Name="JavaFXObjectText">
+										<Value Value="DN-EASY-EXPRESS-NC-NC,DN-EASY-PRO-NC-NC,NCR-SS90-NC-NC" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="scene" Key="{ABDCA901-3048-4A5F-A5C9-63BAD4920272}">
+										<Image FileName="1417973223" Left="0" Top="0" Right="1024" Bottom="768" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javafx.scene.Scene" />
+											</Property>
+											<Property Name="JavaFXObjectText">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="loginButton" Key="{49B3FEBD-BDF2-4BA7-A855-B44F68354D1F}">
+												<Image FileName="1106478860" Left="0" Top="0" Right="68" Bottom="80" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="loginButton" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num1" Key="{86267826-26B8-4AF3-A528-FCD7E13172B5}">
+												<Image FileName="-1306828347" Left="616" Top="332" Right="701" Bottom="398" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="59" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num2" Key="{6EAB8B87-259E-4ED9-BCBC-90CF36EAF6F0}">
+												<Image FileName="-446373945" Left="712" Top="332" Right="797" Bottom="398" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="58" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter" Key="{DAA1A576-31B1-4C13-81D6-E35B75DAA698}">
+												<Image FileName="809294200" Left="756" Top="628" Right="894" Bottom="688" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="46" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num9" Key="{D20137D5-184A-482F-97AE-6D19D9FFA54C}">
+												<Image FileName="-994107079" Left="608" Top="410" Right="728" Bottom="450" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="num9" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num0" Key="{57CE07A4-BB78-4112-93A1-FCFB67E2151C}">
+												<Image FileName="1323379658" Left="296" Top="458" Right="416" Bottom="498" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="num0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter2" Key="{BFA6A6D6-2966-4788-A792-61A81DBCBFCD}">
+												<Image FileName="-506659027" Left="520" Top="531" Right="804" Bottom="611" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="47" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="backMenu" Key="{3615159E-9602-499A-BA7D-945CAB777ED3}">
+												<Image FileName="-1745859577" Left="932" Top="90" Right="1000" Bottom="170" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="backMenu" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="nav02" Key="{DF06368F-7F2D-440C-863D-B8204CF805B8}">
+												<Image FileName="2057574622" Left="642" Top="147" Right="904" Bottom="195" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="nav02" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="func01" Key="{89763E86-404A-48BA-9B33-BF9B31F1A73C}">
+												<Image FileName="1839912932" Left="372" Top="147" Right="634" Bottom="195" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="func01" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="start" Key="{B10F0FCE-CEE5-4F0F-9EE8-57A3BC40D537}">
+												<Image FileName="-1152746568" Left="60" Top="380" Right="588" Bottom="478" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="start" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="barcodeEntry" Key="{E3B0F881-FBA9-464B-95ED-A2ADE5407930}">
+												<Image FileName="1136098756" Left="361" Top="524" Right="509" Bottom="640" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="barcodeEntry" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num6" Key="{9554CBA1-909A-4BD3-B92C-C860B4CE8592}">
+												<Image FileName="383745988" Left="772" Top="462" Right="892" Bottom="502" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="11" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter3" Key="{0346BCD9-5934-46F1-8183-E8DF95B14C3A}">
+												<Image FileName="1642765538" Left="636" Top="654" Right="1006" Bottom="752" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="payNow" Key="{4B1BAA65-3044-4111-A4BC-7DDE681DB7A2}">
+												<Image FileName="-288485724" Left="363" Top="656" Right="1003" Bottom="754" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="payNow" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="btn1" Key="{0B9B0584-20A6-4033-B380-EF17E26B7226}">
+												<Image FileName="232456857" Left="614" Top="400" Right="724" Bottom="496" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="btn1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="pay2" Key="{141011FF-4D0B-4F21-AF96-5DEEF9235069}">
+												<Image FileName="-917811212" Left="389" Top="375" Right="523" Bottom="491" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="pay2" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="scrolledReceipt" Key="{B4EC4ED6-CC6A-45FC-80B0-953432435570}">
+												<Image FileName="-1676811286" Left="24" Top="77" Right="343" Bottom="547" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="scrolledReceipt" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="receipt" Key="{69B098F9-9801-4E40-9259-CF9C9E36FC2D}">
+														<Image FileName="-1676811286" Left="24" Top="77" Right="343" Bottom="547" />
+														<Properties>
+															<Property Name="JavaFXObjectName">
+																<Value Value="receipt" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="customlistcell" Key="{3AF52126-BF48-495B-B1AA-516B1DAC1BCF}">
+																<Image FileName="-1676811286" Left="24" Top="77" Right="343" Bottom="197" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.list.CustomListCell" />
+																	</Property>
+																	<Property Name="JavaFXObjectText">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="JavaFXObjectIndex">
+																		<Value Value="21" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="btn0" Key="{A8B941CD-9CB4-4C4A-8C95-419DB31E7BAD}">
+												<Image FileName="608245318" Left="60" Top="613" Right="644" Bottom="711" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="btn0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num8" Key="{3F2D89E6-0660-4B78-816F-FD964BFED54F}">
+												<Image FileName="760749739" Left="614" Top="512" Right="734" Bottom="552" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="9" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num12" Key="{547624F4-CCAF-4E9A-A6C2-D4D87452FB31}">
+												<Image FileName="122242169" Left="460" Top="412" Right="580" Bottom="452" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="16" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="pairedLogoffButtonAttendantMenu" Key="{14C61B5F-7015-4B5F-A5ED-B53E4AD7EE58}">
+												<Image FileName="743594954" Left="932" Top="187" Right="1000" Bottom="267" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="pairedLogoffButtonAttendantMenu" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="recall" Key="{B42CD6E7-2BAD-42FD-878C-60E06A8AEB9B}">
+												<Image FileName="-713591964" Left="680" Top="410" Right="968" Bottom="508" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="recall" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="pay6" Key="{699D9C3C-A7F0-4855-AB85-F8E70392B36B}">
+												<Image FileName="-719892988" Left="539" Top="505" Right="673" Bottom="621" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="pay6" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num5" Key="{AF872F47-70B4-45E2-BC28-EF4C218B7B13}">
+												<Image FileName="-2047496735" Left="616" Top="470" Right="736" Bottom="510" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="252" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num22" Key="{4FC97C01-6239-4DDF-8318-18F2E45D02B8}">
+												<Image FileName="-1310892292" Left="616" Top="422" Right="736" Bottom="462" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="255" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num7" Key="{189D5547-A5C4-4842-B31B-5C5B4A3435BB}">
+												<Image FileName="-222694466" Left="460" Top="518" Right="580" Bottom="558" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="250" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num3" Key="{2BAB4A19-46DD-43F5-ABAC-E9773D4EBA97}">
+												<Image FileName="-1900571418" Left="772" Top="422" Right="892" Bottom="462" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="254" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num62" Key="{9DC453D3-7605-470B-B47F-8731797F943D}">
+												<Image FileName="844071331" Left="772" Top="470" Right="892" Bottom="510" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="251" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num4" Key="{26B27144-B6EF-487B-A171-130BF9C01F25}">
+												<Image FileName="-40790128" Left="460" Top="470" Right="580" Bottom="510" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="253" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num13" Key="{9654D76B-CAD0-4836-8B47-74C23E7E709F}">
+												<Image FileName="381409632" Left="460" Top="422" Right="580" Bottom="462" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="256" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num82" Key="{9C9D226A-FE8D-4B18-A42B-1A4B2A769BE9}">
+												<Image FileName="1326222793" Left="616" Top="518" Right="736" Bottom="558" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="249" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter4" Key="{3C1DE615-5625-4A33-9BEA-6E02E6CBCF67}">
+												<Image FileName="264642295" Left="630" Top="654" Right="1000" Bottom="752" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="244" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="nav01" Key="{BD5C2F7E-D340-43F1-88D2-C4344673F9B4}">
+												<Image FileName="-1308802979" Left="372" Top="147" Right="634" Bottom="195" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="nav01" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="func03" Key="{87739F9F-7312-44B0-B15A-B64873A5D7FB}">
+												<Image FileName="-1062669403" Left="372" Top="203" Right="634" Bottom="251" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="func03" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num14" Key="{F60ABA30-23C9-4529-97FD-77B910716090}">
+												<Image FileName="-812640316" Left="422" Top="275" Right="542" Bottom="315" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="num1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter5" Key="{27E8DD44-5EAE-48F0-8588-2AA9B98FE6F7}">
+												<Image FileName="-1050936692" Left="372" Top="483" Right="904" Bottom="531" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="98" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="calculatordisplay" Key="{074754E9-6109-4946-8E63-57F88D3826CA}">
+												<Image FileName="-269237983" Left="404" Top="327" Right="962" Bottom="391" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.layout.helpers.JavaFXTextFieldLayoutHelper$1" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="23" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="requestBtn01" Key="{0D596F0A-DD37-4F3B-8C6D-B39E684F95FB}">
+												<Image FileName="1659364786" Left="372" Top="308" Right="634" Bottom="356" />
+												<TypeInfo Item0="{F83B2067-D7D8-4067-8A8E-C0E51F01414E}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="312" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="requestBtn012" Key="{6F356368-AC1A-4D3D-99A1-FF327BE7AA8D}">
+												<Image FileName="1842192916" Left="372" Top="308" Right="634" Bottom="356" />
+												<TypeInfo Item0="{F83B2067-D7D8-4067-8A8E-C0E51F01414E}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="312" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="specialBtn2" Key="{5F2712DC-66DA-4EFF-8E88-CA96C69A37D0}">
+												<TypeInfo Item0="{F83B2067-D7D8-4067-8A8E-C0E51F01414E}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="specialBtn2" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="tpiscan2" Key="{A6B64ED0-05FF-478B-99AC-7263616230C9}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="tpiscan" />
+							</Property>
+							<Property Name="Index">
+								<Value Value="1" Type="0" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="stageDnEasyExpressNcNcDnEasyProN" Key="{E59FE01C-C35A-4331-AEEA-5D3F9BE9D46C}">
+								<Image FileName="562026030" Left="0" Top="0" Right="1024" Bottom="768" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="javafx.stage.Stage" />
+									</Property>
+									<Property Name="JavaFXObjectText">
+										<Value Value="DN-EASY-EXPRESS-NC-NC,DN-EASY-PRO-NC-NC,NCR-SS90-NC-NC" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="scene" Key="{8698B398-1B8F-47BE-BB42-C036DDB6E5FF}">
+										<Image FileName="562026030" Left="0" Top="0" Right="1024" Bottom="768" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javafx.scene.Scene" />
+											</Property>
+											<Property Name="JavaFXObjectText">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="calculatordisplay" Key="{C756645E-E20E-4138-83D8-EC7C61528A74}">
+												<Image FileName="562026030" Left="404" Top="327" Right="962" Bottom="391" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.layout.helpers.JavaFXTextFieldLayoutHelper$1" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="23" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="barcodeEntry" Key="{7D7C883B-BFE2-4F5E-81AE-5BECF77CD543}">
+												<Image FileName="-2103698236" Left="361" Top="524" Right="509" Bottom="640" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="barcodeEntry" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num1" Key="{108D2A82-FBE6-4AD5-A8B8-D60E2D148F71}">
+												<Image FileName="562026030" Left="460" Top="412" Right="580" Bottom="452" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="16" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num8" Key="{468A75F4-0EDC-42C5-9BA2-281150C37B44}">
+												<Image FileName="1619460237" Left="614" Top="512" Right="734" Bottom="552" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="9" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter" Key="{67C20D34-C180-4795-B52A-B5F235457924}">
+												<Image FileName="-1080508242" Left="636" Top="654" Right="1006" Bottom="752" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="3" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="payNow" Key="{DC41A056-E24F-419E-9952-D4F863D9AE3C}">
+												<Image FileName="-1887875488" Left="363" Top="656" Right="1003" Bottom="754" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="payNow" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num2" Key="{83620C02-2184-4953-B5EF-C4D9FB4DE5CE}">
+												<Image FileName="562026030" Left="614" Top="412" Right="734" Bottom="452" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="15" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num0" Key="{BF9F5F87-17B3-49BB-955B-AC7A155F04C6}">
+												<Image FileName="284049600" Left="460" Top="562" Right="580" Bottom="602" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="6" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num12" Key="{9A5E8758-97E8-4293-84FA-9A3B9AE99188}">
+												<Image FileName="-434871624" Left="340" Top="386" Right="490" Bottom="442" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="num1" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="loginButton" Key="{0DE537BC-87C6-4127-8639-EC4EA10F202F}">
+												<Image FileName="1759063252" Left="0" Top="0" Right="68" Bottom="80" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="383" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num22" Key="{0199225F-AC2C-4550-9A96-7E968D962B62}">
+												<Image FileName="144845225" Left="712" Top="332" Right="797" Bottom="398" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="58" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter2" Key="{DCBE59A4-A6A7-4611-B3B8-07174FB44612}">
+												<Image FileName="-570806506" Left="756" Top="628" Right="894" Bottom="688" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="46" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num23" Key="{AAA3EE9D-6E7A-4F34-9BCC-17E581DEDA61}">
+												<Image FileName="-1560459332" Left="452" Top="314" Right="572" Bottom="354" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="num2" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter3" Key="{83997477-7C3F-4F7C-9C23-6CEB4D5B83CA}">
+												<Image FileName="-1051364251" Left="520" Top="531" Right="804" Bottom="611" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="47" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="requestBtn01" Key="{B24199B7-B189-4377-83EC-8CC0FEACB521}">
+												<Image FileName="77205907" Left="372" Top="308" Right="634" Bottom="356" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="312" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="pairedLogoffButtonAttendantMenu" Key="{51BE9702-6638-4A93-8854-37A3420C6EFC}">
+												<Image FileName="-505813558" Left="932" Top="187" Right="1000" Bottom="267" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="pairedLogoffButtonAttendantMenu" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="loginButton2" Key="{7821C4A2-3A5E-4512-8FD1-CB5048CA6B21}">
+												<Image FileName="-1845137575" Left="0" Top="0" Right="68" Bottom="80" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="loginButton" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="backMenu" Key="{C34CE715-BCC4-4877-A8DD-6CDBCC05C3B9}">
+												<Image FileName="-76096988" Left="932" Top="90" Right="1000" Bottom="170" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="backMenu" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="nav01" Key="{78DFEC44-20E1-4D60-8BFE-7DB3DAEE9B9F}">
+												<Image FileName="-1984833735" Left="372" Top="147" Right="634" Bottom="195" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="nav01" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="func02" Key="{9A19C41F-E123-4FD9-A859-B9312622E3F4}">
+												<Image FileName="-1248991491" Left="642" Top="237" Right="904" Bottom="285" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="func02" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="func09" Key="{9632069C-1B2E-4325-A37B-E5F839438AB0}">
+												<Image FileName="1872406277" Left="372" Top="461" Right="634" Bottom="509" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="func09" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="start" Key="{8D8564EA-A324-4EF6-89DB-CD786A9189EF}">
+												<Image FileName="857718012" Left="60" Top="380" Right="588" Bottom="478" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="start" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num02" Key="{31AAA8B7-FB81-4C00-B9A2-97DBDC27DEFC}">
+												<Image FileName="1326449798" Left="460" Top="566" Right="580" Bottom="606" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="246" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num5" Key="{28E5B94A-A008-4FFD-85D6-6123FCE0D824}">
+												<Image FileName="-795847924" Left="616" Top="470" Right="736" Bottom="510" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="252" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="recall" Key="{9732472F-0E05-48DF-ADFF-DD3B80679ACE}">
+												<Image FileName="-1801073307" Left="680" Top="410" Right="968" Bottom="508" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="recall" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="btn0" Key="{D07BB976-51AD-49AC-BB84-4EAF17293D84}">
+												<Image FileName="1962049599" Left="264" Top="544" Right="761" Bottom="624" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="btn0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="requestBtn02" Key="{E03606A0-4AFA-408B-A32D-6B09DDFC3D46}">
+												<Image FileName="1145852068" Left="642" Top="308" Right="904" Bottom="356" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="311" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num7" Key="{3070A2A1-3D43-486F-9E1B-0D3C6664FCC0}">
+												<Image FileName="1931219855" Left="460" Top="518" Right="580" Bottom="558" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="250" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num3" Key="{96896934-5696-4C3B-AAA8-D2455D563C9D}">
+												<Image FileName="252867799" Left="772" Top="422" Right="892" Bottom="462" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="254" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num9" Key="{F32F67DB-4CA3-4D36-BD4D-5519F9FB6E8E}">
+												<Image FileName="973132205" Left="772" Top="518" Right="892" Bottom="558" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="248" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num6" Key="{6E578428-C2C9-4BB1-89B4-97AA5E0ABBDF}">
+												<Image FileName="-1276485230" Left="772" Top="470" Right="892" Bottom="510" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="251" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num4" Key="{0D763E91-5035-416D-9249-798BC874AE05}">
+												<Image FileName="2083813281" Left="460" Top="470" Right="580" Bottom="510" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="253" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="num82" Key="{5DFBFB31-34D0-4424-BCA5-7411A4C05372}">
+												<Image FileName="-827757064" Left="616" Top="518" Right="736" Bottom="558" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="249" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="enter4" Key="{CD69084D-D654-4E30-9417-541A07B9598A}">
+												<Image FileName="-1906049338" Left="630" Top="654" Right="1000" Bottom="752" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="244" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="scrolledItems" Key="{B0BCF7D4-1D5D-44FD-8F72-4B98AF254DC5}">
+												<Image FileName="-1958858465" Left="24" Top="267" Right="1004" Bottom="767" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="javafx.scene.control.ScrollPane" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="5" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="iICBtn_1_1_item" Key="{2643595A-5805-4F11-AAB0-0D22F26559A6}">
+														<Image FileName="-1958858465" Left="24" Top="267" Right="210" Bottom="573" />
+														<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+														<Properties>
+															<Property Name="JavaFXObjectName">
+																<Value Value="iICBtn_1_1_item" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="scrolledReceipt" Key="{BD67BE6E-AE11-44AA-B20B-74A8ED2F83F0}">
+												<Image FileName="-1327586168" Left="24" Top="120" Right="610" Bottom="638" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="scrolledReceipt" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="receipt" Key="{EF22B2D2-B66F-49F4-A174-59448CF6546E}">
+														<Image FileName="-1327586168" Left="24" Top="120" Right="610" Bottom="638" />
+														<Properties>
+															<Property Name="JavaFXObjectName">
+																<Value Value="receipt" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="customlistcell" Key="{78BF081A-ECAD-48F5-99B1-8AC53A9F66A9}">
+																<Image FileName="-1327586168" Left="24" Top="418" Right="610" Bottom="638" />
+																<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+																<Properties>
+																	<Property Name="JavaFullClassName">
+																		<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.list.CustomListCell" />
+																	</Property>
+																	<Property Name="JavaFXObjectText">
+																		<Value Value="" />
+																	</Property>
+																	<Property Name="JavaFXObjectIndex">
+																		<Value Value="3" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="yes" Key="{9FCAF2D4-DEAC-418C-AEFB-8A155DB1930D}">
+												<Image FileName="816941697" Left="520" Top="592" Right="760" Bottom="672" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="yes" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="stageDnEasyExpressChNcNcDnEasyEx" Key="{16095EF6-9276-4243-9EA9-2BA3A683A1D3}">
+								<Image FileName="1986860396" Left="0" Top="0" Right="1024" Bottom="768" />
+								<Properties>
+									<Property Name="JavaFullClassName">
+										<Value Value="javafx.stage.Stage" />
+									</Property>
+									<Property Name="JavaFXObjectText">
+										<Value Value="DN-EASY-EXPRESS_CH-NC-NC,DN-EASY-EXPRESS_CH-IC45-IC40" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="scene" Key="{6CA816CF-6A0C-45AC-B6C7-49EEC38E9283}">
+										<Image FileName="1986860396" Left="0" Top="0" Right="1024" Bottom="768" />
+										<Properties>
+											<Property Name="JavaFullClassName">
+												<Value Value="javafx.scene.Scene" />
+											</Property>
+											<Property Name="JavaFXObjectText">
+												<Value Value="" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="enter" Key="{E87C7B54-C60D-45FA-8096-56F5274554E3}">
+												<Image FileName="1986860396" Left="756" Top="628" Right="894" Bottom="688" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="46" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="requestBtn01" Key="{94C77424-5D58-4116-BB9B-220E85645F22}">
+												<Image FileName="-1579189829" Left="372" Top="308" Right="634" Bottom="356" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="312" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="loginButton" Key="{5406966F-9958-447E-9D47-2D86D1B5A937}">
+												<Image FileName="210642548" Left="0" Top="0" Right="68" Bottom="80" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="com.wn.retail.jsg.gui.javafx.customcontrols.goodlookinglf.GoodLookingToggleButton" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="383" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="tpiscan" Owner="{43554811-33DF-4C43-944E-E3F48B908DC8}">
+			<Child Name="stageDnEasyExpressNcNcDnEasyProN" Owner="{802FC8DF-AF32-4CB4-8C20-ABD8B1321A32}">
+				<Child Name="scene" Owner="{ABDCA901-3048-4A5F-A5C9-63BAD4920272}">
+					<Child Name="loginButton" Owner="{49B3FEBD-BDF2-4BA7-A855-B44F68354D1F}" />
+					<Child Name="num1" Owner="{86267826-26B8-4AF3-A528-FCD7E13172B5}" />
+					<Child Name="num2" Owner="{6EAB8B87-259E-4ED9-BCBC-90CF36EAF6F0}" />
+					<Child Name="enter" Owner="{DAA1A576-31B1-4C13-81D6-E35B75DAA698}" />
+					<Child Name="num9" Owner="{D20137D5-184A-482F-97AE-6D19D9FFA54C}" />
+					<Child Name="num0" Owner="{57CE07A4-BB78-4112-93A1-FCFB67E2151C}" />
+					<Child Name="enter2" Owner="{BFA6A6D6-2966-4788-A792-61A81DBCBFCD}" />
+					<Child Name="backMenu" Owner="{3615159E-9602-499A-BA7D-945CAB777ED3}" />
+					<Child Name="nav02" Owner="{DF06368F-7F2D-440C-863D-B8204CF805B8}" />
+					<Child Name="func01" Owner="{89763E86-404A-48BA-9B33-BF9B31F1A73C}" />
+					<Child Name="start" Owner="{B10F0FCE-CEE5-4F0F-9EE8-57A3BC40D537}" />
+					<Child Name="barcodeEntry" Owner="{E3B0F881-FBA9-464B-95ED-A2ADE5407930}" />
+					<Child Name="num6" Owner="{9554CBA1-909A-4BD3-B92C-C860B4CE8592}" />
+					<Child Name="enter3" Owner="{0346BCD9-5934-46F1-8183-E8DF95B14C3A}" />
+					<Child Name="payNow" Owner="{4B1BAA65-3044-4111-A4BC-7DDE681DB7A2}" />
+					<Child Name="btn1" Owner="{0B9B0584-20A6-4033-B380-EF17E26B7226}" />
+					<Child Name="pay2" Owner="{141011FF-4D0B-4F21-AF96-5DEEF9235069}" />
+					<Child Name="scrolledReceipt" Owner="{B4EC4ED6-CC6A-45FC-80B0-953432435570}">
+						<Child Name="receipt" Owner="{69B098F9-9801-4E40-9259-CF9C9E36FC2D}">
+							<Child Name="customlistcell" Owner="{3AF52126-BF48-495B-B1AA-516B1DAC1BCF}" />
+						</Child>
+					</Child>
+					<Child Name="btn0" Owner="{A8B941CD-9CB4-4C4A-8C95-419DB31E7BAD}" />
+					<Child Name="num8" Owner="{3F2D89E6-0660-4B78-816F-FD964BFED54F}" />
+					<Child Name="num12" Owner="{547624F4-CCAF-4E9A-A6C2-D4D87452FB31}" />
+					<Child Name="pairedLogoffButtonAttendantMenu" Owner="{14C61B5F-7015-4B5F-A5ED-B53E4AD7EE58}" />
+					<Child Name="recall" Owner="{B42CD6E7-2BAD-42FD-878C-60E06A8AEB9B}" />
+					<Child Name="pay6" Owner="{699D9C3C-A7F0-4855-AB85-F8E70392B36B}" />
+					<Child Name="num5" Owner="{AF872F47-70B4-45E2-BC28-EF4C218B7B13}" />
+					<Child Name="num22" Owner="{4FC97C01-6239-4DDF-8318-18F2E45D02B8}" />
+					<Child Name="num7" Owner="{189D5547-A5C4-4842-B31B-5C5B4A3435BB}" />
+					<Child Name="num3" Owner="{2BAB4A19-46DD-43F5-ABAC-E9773D4EBA97}" />
+					<Child Name="num62" Owner="{9DC453D3-7605-470B-B47F-8731797F943D}" />
+					<Child Name="num4" Owner="{26B27144-B6EF-487B-A171-130BF9C01F25}" />
+					<Child Name="num13" Owner="{9654D76B-CAD0-4836-8B47-74C23E7E709F}" />
+					<Child Name="num82" Owner="{9C9D226A-FE8D-4B18-A42B-1A4B2A769BE9}" />
+					<Child Name="enter4" Owner="{3C1DE615-5625-4A33-9BEA-6E02E6CBCF67}" />
+					<Child Name="nav01" Owner="{BD5C2F7E-D340-43F1-88D2-C4344673F9B4}" />
+					<Child Name="func03" Owner="{87739F9F-7312-44B0-B15A-B64873A5D7FB}" />
+					<Child Name="num14" Owner="{F60ABA30-23C9-4529-97FD-77B910716090}" />
+					<Child Name="enter5" Owner="{27E8DD44-5EAE-48F0-8588-2AA9B98FE6F7}" />
+					<Child Name="calculatordisplay" Owner="{074754E9-6109-4946-8E63-57F88D3826CA}" />
+					<Child Name="requestBtn01" Owner="{0D596F0A-DD37-4F3B-8C6D-B39E684F95FB}" />
+					<Child Name="requestBtn012" Owner="{6F356368-AC1A-4D3D-99A1-FF327BE7AA8D}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="tpiscan2" Owner="{A6B64ED0-05FF-478B-99AC-7263616230C9}">
+			<Child Name="stageDnEasyExpressNcNcDnEasyProN" Owner="{E59FE01C-C35A-4331-AEEA-5D3F9BE9D46C}">
+				<Child Name="scene" Owner="{8698B398-1B8F-47BE-BB42-C036DDB6E5FF}">
+					<Child Name="calculatordisplay" Owner="{C756645E-E20E-4138-83D8-EC7C61528A74}" />
+					<Child Name="barcodeEntry" Owner="{7D7C883B-BFE2-4F5E-81AE-5BECF77CD543}" />
+					<Child Name="num1" Owner="{108D2A82-FBE6-4AD5-A8B8-D60E2D148F71}" />
+					<Child Name="num8" Owner="{468A75F4-0EDC-42C5-9BA2-281150C37B44}" />
+					<Child Name="enter" Owner="{67C20D34-C180-4795-B52A-B5F235457924}" />
+					<Child Name="payNow" Owner="{DC41A056-E24F-419E-9952-D4F863D9AE3C}" />
+					<Child Name="num2" Owner="{83620C02-2184-4953-B5EF-C4D9FB4DE5CE}" />
+					<Child Name="num0" Owner="{BF9F5F87-17B3-49BB-955B-AC7A155F04C6}" />
+					<Child Name="num12" Owner="{9A5E8758-97E8-4293-84FA-9A3B9AE99188}" />
+					<Child Name="loginButton" Owner="{0DE537BC-87C6-4127-8639-EC4EA10F202F}" />
+					<Child Name="num22" Owner="{0199225F-AC2C-4550-9A96-7E968D962B62}" />
+					<Child Name="enter2" Owner="{DCBE59A4-A6A7-4611-B3B8-07174FB44612}" />
+					<Child Name="num23" Owner="{AAA3EE9D-6E7A-4F34-9BCC-17E581DEDA61}" />
+					<Child Name="enter3" Owner="{83997477-7C3F-4F7C-9C23-6CEB4D5B83CA}" />
+					<Child Name="requestBtn01" Owner="{B24199B7-B189-4377-83EC-8CC0FEACB521}" />
+					<Child Name="pairedLogoffButtonAttendantMenu" Owner="{51BE9702-6638-4A93-8854-37A3420C6EFC}" />
+					<Child Name="loginButton2" Owner="{7821C4A2-3A5E-4512-8FD1-CB5048CA6B21}" />
+					<Child Name="backMenu" Owner="{C34CE715-BCC4-4877-A8DD-6CDBCC05C3B9}" />
+					<Child Name="nav01" Owner="{78DFEC44-20E1-4D60-8BFE-7DB3DAEE9B9F}" />
+					<Child Name="func02" Owner="{9A19C41F-E123-4FD9-A859-B9312622E3F4}" />
+					<Child Name="func09" Owner="{9632069C-1B2E-4325-A37B-E5F839438AB0}" />
+					<Child Name="start" Owner="{8D8564EA-A324-4EF6-89DB-CD786A9189EF}" />
+					<Child Name="num02" Owner="{31AAA8B7-FB81-4C00-B9A2-97DBDC27DEFC}" />
+					<Child Name="num5" Owner="{28E5B94A-A008-4FFD-85D6-6123FCE0D824}" />
+					<Child Name="recall" Owner="{9732472F-0E05-48DF-ADFF-DD3B80679ACE}" />
+					<Child Name="btn0" Owner="{D07BB976-51AD-49AC-BB84-4EAF17293D84}" />
+					<Child Name="requestBtn02" Owner="{E03606A0-4AFA-408B-A32D-6B09DDFC3D46}" />
+					<Child Name="num7" Owner="{3070A2A1-3D43-486F-9E1B-0D3C6664FCC0}" />
+					<Child Name="num3" Owner="{96896934-5696-4C3B-AAA8-D2455D563C9D}" />
+					<Child Name="num9" Owner="{F32F67DB-4CA3-4D36-BD4D-5519F9FB6E8E}" />
+					<Child Name="num6" Owner="{6E578428-C2C9-4BB1-89B4-97AA5E0ABBDF}" />
+					<Child Name="num4" Owner="{0D763E91-5035-416D-9249-798BC874AE05}" />
+					<Child Name="num82" Owner="{5DFBFB31-34D0-4424-BCA5-7411A4C05372}" />
+					<Child Name="enter4" Owner="{CD69084D-D654-4E30-9417-541A07B9598A}" />
+					<Child Name="scrolledItems" Owner="{B0BCF7D4-1D5D-44FD-8F72-4B98AF254DC5}">
+						<Child Name="iICBtn_1_1_item" Owner="{2643595A-5805-4F11-AAB0-0D22F26559A6}" />
+					</Child>
+					<Child Name="scrolledReceipt" Owner="{BD67BE6E-AE11-44AA-B20B-74A8ED2F83F0}">
+						<Child Name="receipt" Owner="{EF22B2D2-B66F-49F4-A174-59448CF6546E}">
+							<Child Name="customlistcell" Owner="{78BF081A-ECAD-48F5-99B1-8AC53A9F66A9}" />
+						</Child>
+					</Child>
+					<Child Name="yes" Owner="{9FCAF2D4-DEAC-418C-AEFB-8A155DB1930D}" />
+				</Child>
+			</Child>
+			<Child Name="stageDnEasyExpressChNcNcDnEasyEx" Owner="{16095EF6-9276-4243-9EA9-2BA3A683A1D3}">
+				<Child Name="scene" Owner="{6CA816CF-6A0C-45AC-B6C7-49EEC38E9283}">
+					<Child Name="enter" Owner="{E87C7B54-C60D-45FA-8096-56F5274554E3}" />
+					<Child Name="requestBtn01" Owner="{94C77424-5D58-4116-BB9B-220E85645F22}" />
+					<Child Name="loginButton" Owner="{5406966F-9958-447E-9D47-2D86D1B5A937}" />
+				</Child>
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

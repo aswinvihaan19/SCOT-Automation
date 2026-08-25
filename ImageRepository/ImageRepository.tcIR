@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7C36009-4A66-4899-99AE-DEFC5C22C057}" version="1400" key="{E357CCA6-470F-4F24-9A02-CDF228143264}" typeId="{E7C36009-4A66-4899-99AE-DEFC5C22C057}">
+	<config nodeName="ImageRepository" />
+	<testData />
+	<data />
+	<children>
+		<child key="{A467811D-D015-4476-92CA-87C245B4951F}" path="QtyConfirmbuttonImage.tcIRIS" />
+		<child key="{FFBF6060-6DE5-4654-BB1F-8013202FE792}" path="VoidTransactionOptionsImage.tcIRIS" />
+		<child key="{E05C2716-C9FB-4F74-9ECC-4C112C677252}" path="PriceCorrectionMenuOptionsImage.tcIRIS" />
+		<child key="{41B0A2AE-95B1-40BA-B744-3DB3F6E0D1E3}" path="ageInterventionRejectionImages.tcIRIS" />
+		<child key="{53635234-BAA8-4905-BFEB-489AB09AD0FB}" path="GiftCardKeypadImages.tcIRIS" />
+		<child key="{E1DA9C3E-39F8-41EC-88E5-CF03EC7368CC}" path="LaneClosedScreen.tcIRIS" />
+		<child key="{458D7968-DA24-4335-803E-C334E7A023C1}" path="ColleagueMenuLaneOptions.tcIRIS" />
+		<child key="{9289F8F2-CF13-4CBB-9367-57DE303F9495}" path="StartScreenImage.tcIRIS" />
+		<child key="{9638ECB7-017F-4903-B410-B07B6EEF6393}" path="BlockingAlertMessagesImages.tcIRIS" />
+		<child key="{98B3DD6B-0DCF-46C2-8BAD-329BBB3B18F9}" path="ColleagueMenuImages.tcIRIS" />
+	</children>
+</Root>

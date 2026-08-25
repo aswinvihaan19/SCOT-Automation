@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{98B3DD6B-0DCF-46C2-8BAD-329BBB3B18F9}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ColleagueMenuImages" />
+	<testData />
+	<data>
+		<item caption="BackbuttonImage" moniker="{D724DC25-D308-47F3-AE86-3BDBD9D8451C}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\BackbuttonImage.png" initialHash="00000000" selectionLeft="934" selectionTop="191" selectionWidth="70" selectionHeight="79" initialLeft="934" initialTop="191" initialWidth="70" initialHeight="79" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Folder Name="E2E Flows">
+		<Feature Path="A transaction with Intervention in it and paid via coupon by value.feature" />
+		<Feature Path="First E2E transaction.feature" />
+		<Feature Path="Transaction paid using coupon by value.feature" />
+		<Feature Path="Transaction paid using gift card.feature" />
+		<Feature Path="Adding a bag to the transaction and pay wit card.feature" />
+		<Feature Path="Price correction of an item.feature" />
+		<Feature Path="Performing Quantity Sale.feature" />
+		<Feature Path="Own Bag Transaction with card payment.feature" />
+		<Feature Path="Transaction with many&#32;&#32;items.feature" />
+		<Feature Path="Adding an Item via picklist.feature" />
+	</Folder>
+	<Folder Name="VOID TRANSACTION">
+		<Feature Path="Void a transaction from payment page.feature" />
+		<Feature Path="Void a transaction from sales screen.feature" />
+	</Folder>
+	<Folder Name="START SCREEN UI">
+		<Feature Path="Start Screen UI validations.feature" />
+		<Feature Path="Close Lane and Open Lane.feature" />
+		<Feature Path="Handling the inactivity timeout error.feature" />
+		<Feature Path="Validate Scan and shop QR Code.feature" />
+	</Folder>
+	<Folder Name="BAG SCREEN">
+		<Feature Path="Bag Screen validations.feature" />
+	</Folder>
+	<Folder Name="Blocking alert Scenarios">
+		<Feature Path="Validate Sales message.feature" />
+		<Feature Path="Validate Qty Restriction Message.feature" />
+		<Feature Path="Item not found blocking alert.feature" />
+		<Feature Path="Food Red Alert.feature" />
+		<Feature Path="C&amp;H Red Alert.feature" />
+		<Feature Path="Inactivity timeout when no item is added in transaction.feature" />
+		<Feature Path="Bulk RTM Restricted supplier.feature" />
+		<Feature Path="Bulk RTM Un-Restricted supplier.feature" />
+		<Feature Path="Majority Price.feature" />
+		<Feature Path="Price Required Alert.feature" />
+		<Feature Path="Quantity Restriction for multiple items.feature" />
+		<Feature Path="Validate Product Restriction blocking alert.feature" />
+		<Feature Path="Age restricted item intervention rejection handling.feature" />
+	</Folder>
+	<Folder Name="Sale with Different Barcodes">
+		<Feature Path="Sale_EAN8.feature" />
+	</Folder>
+	<Folder Name="ColleagueMenu" />
+	<Folder Name="GiftReceiptUI">
+		<Feature Path="giftreceiptUI.feature" />
+	</Folder>
+	<Feature Path="Layaway a transaction from payment page.feature" />
+	<Feature Path="Reprint last transaction receipt.feature" />
+	<Feature Path="Remove item by void entry.feature" />
+	<Feature Path="Remove Item by Customer.feature" />
+	<Feature Path="Validate Print Last Receipt Disabled during transaction.feature" />
+</Scenarios>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{3E67B73F-146E-45DC-91E2-49B9ECBE7826}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{90B7EE7D-AC82-4F49-AA8B-D02F4F6BB094}">
+			<config nodeName="EventHandler" lastOpenedTLB="" generatedCLSID="{22428899-49B9-4FE4-8B45-71D7C0626BBC}" generatedTLBKey="{37C08E0F-A134-42B4-B7FC-D99A79F33880}" generatedEventsKey="{F840F8AE-489A-4FFD-831E-A4AB36062FC2}" generatedTLBDesc="TestComplete EventControl1 Control - 26/01/2026 16:06:28">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<eventInfo infoTLBVer="version.dll" infoGUID="{F5856842-4323-49FD-B806-36E22179EF8A}" infoID="1610743808" infoControlName="Test Engine Events" infoEventName="OnStartTest" infoEventRealName="OnStartTest" infoDescription="Occurs when TestComplete starts running a test (whether it is run from the UI or command line, or as a project test item)." />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

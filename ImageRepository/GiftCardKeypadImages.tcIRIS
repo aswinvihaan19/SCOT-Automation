@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{53635234-BAA8-4905-BFEB-489AB09AD0FB}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="GiftCardKeypadImages" />
+	<testData />
+	<data>
+		<item caption="Keypad9" moniker="{05B06E62-EF92-44C7-B5AA-F8B7A8A6AE73}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Keypad9.png" initialHash="F98E9106" selectionLeft="768" selectionTop="515" selectionWidth="128" selectionHeight="45" initialLeft="768" initialTop="515" initialWidth="128" initialHeight="45" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="Keypad0" moniker="{050CCF0F-E8A4-4A11-AA50-5BA76D067512}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Keypad0.png" initialHash="64303CC9" selectionLeft="458" selectionTop="560" selectionWidth="127" selectionHeight="49" initialLeft="458" initialTop="560" initialWidth="127" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="Keypad1" moniker="{50992814-010E-44A7-B960-24229F81E554}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\iris1034A6988504A6.png" initialHash="00000000" selectionLeft="309" selectionTop="406" selectionWidth="123" selectionHeight="45" initialLeft="309" initialTop="406" initialWidth="123" initialHeight="45" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>
