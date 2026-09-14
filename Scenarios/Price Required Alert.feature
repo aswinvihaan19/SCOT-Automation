@@ -1,5 +1,5 @@
 ﻿
-@R20.1
+@R21st
 Feature: Price Required Alert
 
   Scenario: Price required alert validations

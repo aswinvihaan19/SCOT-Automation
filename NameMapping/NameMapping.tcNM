@@ -1066,6 +1066,39 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="specialBtn6" Key="{7EF4A10F-8642-45A6-A165-74953FD15FC0}">
+												<Image FileName="-549251282" Left="840" Top="574" Right="1008" Bottom="640" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="specialBtn6" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="background" Key="{805989D6-E129-4FEF-9C70-B5B3C721E0EC}">
+												<Image FileName="-549251282" Left="0" Top="0" Right="1024" Bottom="768" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFullClassName">
+														<Value Value="javafx.scene.control.Label" />
+													</Property>
+													<Property Name="JavaFXObjectText">
+														<Value Value="" />
+													</Property>
+													<Property Name="JavaFXObjectIndex">
+														<Value Value="0" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="btn1" Key="{6D691DDC-07DC-477F-956F-FD757CFEA307}">
+												<Image FileName="-2049017031" Left="260" Top="440" Right="417" Bottom="544" />
+												<TypeInfo Item0="{92979250-FD9B-46D8-97FE-7ADD3F3960CF}" />
+												<Properties>
+													<Property Name="JavaFXObjectName">
+														<Value Value="btn1" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -1244,6 +1277,9 @@
 						</Child>
 					</Child>
 					<Child Name="yes" Owner="{9FCAF2D4-DEAC-418C-AEFB-8A155DB1930D}" />
+					<Child Name="specialBtn6" Owner="{7EF4A10F-8642-45A6-A165-74953FD15FC0}" />
+					<Child Name="background" Owner="{805989D6-E129-4FEF-9C70-B5B3C721E0EC}" />
+					<Child Name="btn1" Owner="{6D691DDC-07DC-477F-956F-FD757CFEA307}" />
 				</Child>
 			</Child>
 			<Child Name="stageDnEasyExpressChNcNcDnEasyEx" Owner="{16095EF6-9276-4243-9EA9-2BA3A683A1D3}">

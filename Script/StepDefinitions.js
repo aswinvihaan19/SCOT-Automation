@@ -88,12 +88,15 @@ When("card payment is selected", function (){
 });
 
 Then("the order is placed and receipt is printed", function (){
+  //Print Receipt Object
+  //Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.btn1.Click();
   
-  Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.btn1.Click();
+  //Start next transaction button
+  Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.btn0.Click();
   
   //Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("btn0").Click();
   //Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.btn0.Click(286, 45, skAlt);
-  Delay(5000,"receipt is getting printed")
+  //Delay(5000,"receipt is getting printed")
 //  Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("start").VisibleOnScreen
 //  Log.Message("start screen is visible")  
 });
@@ -242,7 +245,8 @@ When("colleague voids the transaction in payment page", function (){
   //Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("requestBtn02").Click(120, 32);
   scene = Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene;
   scene.backMenu.Click(28, 39, skAlt);
-  scene.pairedLogoffButtonAttendantMenu.Click(49, 37, skAlt);
+  //scene.pairedLogoffButtonAttendantMenu.Click(49, 37, skAlt);
+  Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.pairedLogoffButtonAttendantMenu.Click();
   //scene.pairedLogoffButtonAttendantMenu.Click(36, 34, skAlt);
 });
   
@@ -450,8 +454,8 @@ When("Colleague Voids the item via void entry option", function (){
 
 When("customer removes one of the items from the transaction", function (){
 
-Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("voidSelectedEntry").Click();
-
+//Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("voidSelectedEntry").Click();
+ImageRepository.CustomerVoidEntryButton.CustomerVoidItemButtonImage.Click();
 Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("yes").Click();
 
 Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.enter3.Click();
@@ -550,7 +554,9 @@ When("colleague voids the transaction Choosing {arg} option", function (voidOpti
  
   scene = Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene;
   scene.backMenu.Click(28, 39, skAlt);
-  scene.pairedLogoffButtonAttendantMenu.Click(49, 37, skAlt);
+  //scene.pairedLogoffButtonAttendantMenu.Click(49, 37, skAlt);
+  Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.pairedLogoffButtonAttendantMenu.Click();
+  
 });
 
 When("colleague tries to reprint last transaction receipt", function (){
@@ -576,6 +582,8 @@ When("customer selects {arg} Bag options", function (bagOptions){
   //Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.enter3.Click();
   Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.JavaFXObject("specialBtn6").Click();
   
+  
+  
   ClickNoOfBagOptions(bagOptions);
 
   Aliases.tpiscan.stageDnEasyExpressNcNcDnEasyProN.scene.payNow.Click();
@@ -586,6 +594,14 @@ When("customer selects {arg} Bag options", function (bagOptions){
   } else{
     Log.Error("Go Back Button is not available and not enabled")
   }
+  
+//  let scene = Aliases.tpiscan2.stageDnEasyExpressNcNcDnEasyProN.scene;
+//  scene.specialBtn6.Click(82, 31);
+//  aqObject.CheckProperty(scene.background, "JavaFXObjectText", cmpEqual, "");
+//  scene.btn1.Click(88, 68);
+//  scene.payNow.Click(146, 45);
+  
+  
   
  
   

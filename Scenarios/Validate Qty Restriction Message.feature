@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Validate Qty Restriction Message
 
   Scenario: Quantity Restriction message should be validated

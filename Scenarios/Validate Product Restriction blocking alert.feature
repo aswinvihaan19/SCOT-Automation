@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Validate Product Restriction blocking alert
 
   Scenario: Selecting un-restricted supplier for product restriction item

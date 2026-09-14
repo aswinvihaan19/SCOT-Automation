@@ -1,4 +1,5 @@
-﻿Feature: giftreceiptUI
+﻿@runtimecheck
+Feature: giftreceiptUI
 
   Scenario: Check whether gift receipt button is disabled for food Products
     Given the transaction is started

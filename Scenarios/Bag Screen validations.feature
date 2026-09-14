@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Bag Screen validations
 
   Scenario Outline: Validate different number of bag being added in transactions

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Validate Print Last Receipt Disabled during transaction
 
   Scenario: Print Last receipt option should be disabled during transaction

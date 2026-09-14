@@ -1,4 +1,4 @@
-﻿@R20
+﻿
 Feature: Transaction paid using gift card
 
   Scenario: Customer makes a transaction with gift card

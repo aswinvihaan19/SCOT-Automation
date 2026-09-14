@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
   Feature: Transaction paid using coupon by value
 
   Scenario: Customer makes a transaction with coupon by value

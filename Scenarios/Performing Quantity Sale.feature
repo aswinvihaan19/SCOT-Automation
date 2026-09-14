@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Performing Quantity Sale
 
   Scenario: A colleague performs a quantity sale greater than 5

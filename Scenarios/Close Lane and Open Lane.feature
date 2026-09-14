@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Close Lane and Open Lane
 
   Scenario: Colleague Closed the lane and opens it again

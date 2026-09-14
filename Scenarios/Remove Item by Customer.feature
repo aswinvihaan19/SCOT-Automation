@@ -1,4 +1,4 @@
-﻿@18.2Regression
+﻿@runtimecheck
 Feature: Remove Item by Customer
 
   Scenario: Remove an item below 5£ from the transaction

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Handling the inactivity timeout error
 
   Scenario: Handling inactivity time out error by selecting Yes

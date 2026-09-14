@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: C&H Red Alert
 
  Scenario: validate Blocking alert for C&H Red alert message

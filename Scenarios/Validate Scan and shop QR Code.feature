@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Validate Scan and shop QR Code
 
   Scenario: Validate the SAS QR code 

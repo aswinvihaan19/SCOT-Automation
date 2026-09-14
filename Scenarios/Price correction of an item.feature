@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Price correction of an item
 
   Scenario Outline: Colleague does a price correction for an item

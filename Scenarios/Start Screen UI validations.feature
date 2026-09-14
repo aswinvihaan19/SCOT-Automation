@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Start Screen UI validations
   
   Scenario: Validate the use of help button

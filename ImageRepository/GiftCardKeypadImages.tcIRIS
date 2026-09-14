@@ -3,14 +3,14 @@
 	<config nodeName="GiftCardKeypadImages" />
 	<testData />
 	<data>
-		<item caption="Keypad9" moniker="{05B06E62-EF92-44C7-B5AA-F8B7A8A6AE73}" isComposite="False" simpleMode="True" currentImageIndex="0">
-			<image imageFileName="Data\Keypad9.png" initialHash="F98E9106" selectionLeft="768" selectionTop="515" selectionWidth="128" selectionHeight="45" initialLeft="768" initialTop="515" initialWidth="128" initialHeight="45" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		<item caption="Keypad0" moniker="{471120D9-00C5-4A31-A2E6-6741FA3A0A6F}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Keypad0Image.png" initialHash="A63E8042" selectionLeft="319" selectionTop="555" selectionWidth="106" selectionHeight="34" initialLeft="319" initialTop="555" initialWidth="106" initialHeight="34" pixelTolerance="0" colorTolerance="0" deviceName="" />
 		</item>
-		<item caption="Keypad0" moniker="{050CCF0F-E8A4-4A11-AA50-5BA76D067512}" isComposite="False" simpleMode="True" currentImageIndex="0">
-			<image imageFileName="Data\Keypad0.png" initialHash="64303CC9" selectionLeft="458" selectionTop="560" selectionWidth="127" selectionHeight="49" initialLeft="458" initialTop="560" initialWidth="127" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		<item caption="Keypad1" moniker="{20BCD101-893D-4579-8B66-F7C062323ECC}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Keypad1Image.png" initialHash="C8BA3B23" selectionLeft="317" selectionTop="409" selectionWidth="109" selectionHeight="36" initialLeft="317" initialTop="409" initialWidth="109" initialHeight="36" pixelTolerance="0" colorTolerance="0" deviceName="" />
 		</item>
-		<item caption="Keypad1" moniker="{50992814-010E-44A7-B960-24229F81E554}" isComposite="False" simpleMode="True" currentImageIndex="0">
-			<image imageFileName="Data\iris1034A6988504A6.png" initialHash="00000000" selectionLeft="309" selectionTop="406" selectionWidth="123" selectionHeight="45" initialLeft="309" initialTop="406" initialWidth="123" initialHeight="45" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		<item caption="Keypad9" moniker="{A087EB39-75B9-4DBB-8FF3-5346F891AE17}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\Keypad9Image.png" initialHash="00000000" selectionLeft="632" selectionTop="504" selectionWidth="100" selectionHeight="36" initialLeft="632" initialTop="504" initialWidth="100" initialHeight="36" pixelTolerance="0" colorTolerance="0" deviceName="" />
 		</item>
 	</data>
 </Root>

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Layaway a transaction from payment page
 
   Scenario: Laying away a transaction from payment page 

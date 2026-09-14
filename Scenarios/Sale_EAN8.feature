@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
   Feature: Transaction with EAN8 barcode
 
   Scenario Outline: Customer makes a transaction EAN8 barcode

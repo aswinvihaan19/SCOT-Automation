@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21regression
 Feature: Void a transaction from payment page
 
   Scenario Outline: voiding a transaction from payment page 

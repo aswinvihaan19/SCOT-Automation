@@ -1,5 +1,5 @@
 ﻿
-@R20.1
+@R21st
 Feature: Bulk RTM Un-Restricted supplier
 
   Scenario: Selecting un-restricted supplier for bulk RTM product

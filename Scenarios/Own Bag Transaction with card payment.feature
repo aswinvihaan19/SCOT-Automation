@@ -1,4 +1,4 @@
-﻿@18.2Regression
+﻿
 Feature: Own Bag transaction with card payment
 
   Scenario: Customer has own bag

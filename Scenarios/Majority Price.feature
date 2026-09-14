@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Majority Price
 
   Scenario Outline: Majority price validations

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Quantity Restriction for multiple items
 
   Scenario: Quantity Restriction message should be validated for multiple items

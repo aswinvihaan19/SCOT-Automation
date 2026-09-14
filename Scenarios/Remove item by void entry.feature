@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Remove item by void entry
 
   Scenario: Remove an item from void entry option in colleague menu

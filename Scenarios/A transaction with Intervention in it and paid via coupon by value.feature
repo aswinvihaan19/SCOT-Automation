@@ -1,4 +1,4 @@
-﻿
+﻿@runtimecheck
 Feature: A transaction with Intervention in it and paid via coupon by value
 
   Scenario: Customer adds a quantity & age restricted item in the basket

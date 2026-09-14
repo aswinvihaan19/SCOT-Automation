@@ -14,5 +14,6 @@
 		<child key="{9289F8F2-CF13-4CBB-9367-57DE303F9495}" path="StartScreenImage.tcIRIS" />
 		<child key="{9638ECB7-017F-4903-B410-B07B6EEF6393}" path="BlockingAlertMessagesImages.tcIRIS" />
 		<child key="{98B3DD6B-0DCF-46C2-8BAD-329BBB3B18F9}" path="ColleagueMenuImages.tcIRIS" />
+		<child key="{13C5E0A3-0E8F-42C8-80E1-61BC7FE6D0C8}" path="CustomerVoidEntryButton.tcIRIS" />
 	</children>
 </Root>

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Adding a bag to the transaction and pay wit card
 
   Scenario: adding a Bag

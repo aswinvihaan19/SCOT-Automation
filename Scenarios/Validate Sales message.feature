@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Validate Sales message
 
   Scenario: Validate if sales message is getting triggered

@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@runtimecheck
 Feature: Reprint last transaction receipt
 
   Scenario: Reprinting last transaction receipt from colleague menu

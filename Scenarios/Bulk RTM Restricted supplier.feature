@@ -1,4 +1,4 @@
-﻿@R20.1
+﻿@R21st
 Feature: Bulk RTM Restricted supplier
 
   Scenario: Selecting Restricted supplier for bulk RTM product

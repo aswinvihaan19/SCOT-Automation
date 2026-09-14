@@ -12,7 +12,12 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{3BF673DC-EB14-4A48-A675-C2CA27C5752D}" version="14">
 		<children>
-			<testItem name="ProjectTestItem1" key="{7E580BD3-9258-40AB-9F2F-19B335235ED2}" group="False" parallel="False" enabled="True" load="False" testMoniker="First E2E transaction|*" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+			<testItem name="ProjectTestItem1" key="{7E580BD3-9258-40AB-9F2F-19B335235ED2}" group="False" parallel="False" enabled="False" load="False" testMoniker="First E2E transaction|*" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
+				<testParameters />
+				<environments activeCloud="SWT" />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem2" key="{8018F14E-9AC7-47CD-9278-F50D1EF8376E}" group="False" parallel="False" enabled="True" load="False" testMoniker="Transaction with many&#32;&#32;items|Place an order from DN Card only SCOT" count="100" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True" lnID="{00000000-0000-0000-0000-000000000000}">
 				<testParameters />
 				<environments activeCloud="SWT" />
 				<children />
