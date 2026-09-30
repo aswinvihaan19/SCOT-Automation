@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{13C5E0A3-0E8F-42C8-80E1-61BC7FE6D0C8}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="CustomerVoidEntryButton" />
+	<testData />
+	<data>
+		<item caption="CustomerVoidItemButtonImage" moniker="{64A5A6AA-2F6F-4EDD-852C-1347E64BCC4B}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\CustomerVoidItemButtonImage.png" initialHash="00000000" selectionLeft="538" selectionTop="568" selectionWidth="66" selectionHeight="60" initialLeft="538" initialTop="568" initialWidth="66" initialHeight="60" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

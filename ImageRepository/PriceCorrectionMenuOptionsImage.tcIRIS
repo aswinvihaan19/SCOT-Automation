@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{E05C2716-C9FB-4F74-9ECC-4C112C677252}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="PriceCorrectionMenuOptionsImage" />
+	<testData />
+	<data>
+		<item caption="PriceCorrectionEnterButtonImage" moniker="{AD008B1C-54FC-4896-8D23-F01F4929D4CF}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\PriceCorrectionEnterButtonImage.png" initialHash="098D4383" selectionLeft="372" selectionTop="481" selectionWidth="534" selectionHeight="49" initialLeft="372" initialTop="481" initialWidth="534" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="OutletReductionOptionImage" moniker="{EBCCD8F4-545C-47C6-B8B1-7BEAFB6DADA5}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\OutletReductionOptionImage.png" initialHash="DBD624F9" selectionLeft="643" selectionTop="309" selectionWidth="263" selectionHeight="48" initialLeft="643" initialTop="309" initialWidth="263" initialHeight="48" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="ManagersReductionOptionImage" moniker="{5790612D-9BF9-4700-8101-379E27816649}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ManagersReductionOptionImage.png" initialHash="00000000" selectionLeft="373" selectionTop="360" selectionWidth="260" selectionHeight="53" initialLeft="373" initialTop="360" initialWidth="260" initialHeight="53" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="SoiledAndDamagedOptionImage" moniker="{DD41ECEA-C4F1-4097-BAD7-1AE1DB40D2F0}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\SoiledAndDamagedOptionImage.png" initialHash="8BB2A6D8" selectionLeft="643" selectionTop="366" selectionWidth="265" selectionHeight="47" initialLeft="643" initialTop="366" initialWidth="265" initialHeight="47" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="CustomerReservationOptionImage" moniker="{D2DD11CB-D62D-44ED-9D36-48AEC7EAFE43}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\CustomerReservationOptionImage.png" initialHash="D754C148" selectionLeft="374" selectionTop="419" selectionWidth="262" selectionHeight="49" initialLeft="374" initialTop="419" initialWidth="262" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="FoodDiscountOptionImage" moniker="{98786AFB-54EC-4504-A953-3A277E09E7D8}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\FoodDiscountOptionImage.png" initialHash="4C69DB22" selectionLeft="645" selectionTop="421" selectionWidth="261" selectionHeight="49" initialLeft="645" initialTop="421" initialWidth="261" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="ISAorderOptionImage" moniker="{969F48A3-FE1D-4558-8ABA-40BA96127D8C}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ISAorderOptionImage.png" initialHash="8F01783E" selectionLeft="374" selectionTop="474" selectionWidth="262" selectionHeight="51" initialLeft="374" initialTop="474" initialWidth="262" initialHeight="51" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="PriceCorrectionCancelOptionImage" moniker="{896039A1-1AB4-42A4-8748-1FFB0FC7F71E}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\PriceCorrectionCancelOptionImage.png" initialHash="E0C23C17" selectionLeft="643" selectionTop="475" selectionWidth="261" selectionHeight="48" initialLeft="643" initialTop="475" initialWidth="261" initialHeight="48" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

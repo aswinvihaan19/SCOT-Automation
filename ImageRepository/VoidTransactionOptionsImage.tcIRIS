@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{FFBF6060-6DE5-4654-BB1F-8013202FE792}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="VoidTransactionOptionsImage" />
+	<testData />
+	<data>
+		<item caption="WalkOffStockLossOptionImage" moniker="{E1415EA1-74B6-4135-8C23-D007D43DDA0D}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\VoidTransactionStocklossImage.png" initialHash="D7E933E1" selectionLeft="643" selectionTop="419" selectionWidth="263" selectionHeight="51" initialLeft="643" initialTop="419" initialWidth="263" initialHeight="51" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="GoBackOptionImage" moniker="{FAD38763-68F8-4A3B-AEB9-2A25B73BC983}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\GoBackOptionImage.png" initialHash="012AE917" selectionLeft="370" selectionTop="306" selectionWidth="262" selectionHeight="52" initialLeft="370" initialTop="306" initialWidth="262" initialHeight="52" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="ChangedTheirMindOptionImage" moniker="{F1701E0E-F19F-4C0B-93D0-CAA5DAC68835}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ChangedTheirMindOptionImage.png" initialHash="A8F37157" selectionLeft="645" selectionTop="306" selectionWidth="263" selectionHeight="52" initialLeft="645" initialTop="306" initialWidth="263" initialHeight="52" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="FunctionalityNotAvailableOptionImage" moniker="{31B845AB-F182-4226-A2AF-3C9AFB3B0D01}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\FunctionalityNotAvailableOptionImage.png" initialHash="CA1F8285" selectionLeft="374" selectionTop="362" selectionWidth="260" selectionHeight="51" initialLeft="374" initialTop="362" initialWidth="260" initialHeight="51" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="PaymentrFailedOptionImage" moniker="{C90A9702-E013-4313-B3E3-D09B22DCC956}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\PaymentrFailedOptionImage.png" initialHash="16755AF9" selectionLeft="643" selectionTop="362" selectionWidth="263" selectionHeight="49" initialLeft="643" initialTop="362" initialWidth="263" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="WalkOffItemsLeftBehindOptionImage" moniker="{F8858C5A-EBBD-47E5-B224-8D39232EBA48}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\WalkOffItemsLeftBehindOptionImage.png" initialHash="00000000" selectionLeft="370" selectionTop="419" selectionWidth="264" selectionHeight="51" initialLeft="370" initialTop="419" initialWidth="264" initialHeight="51" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

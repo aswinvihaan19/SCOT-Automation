@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="TopUpGiftCardPoundSymbol" key="{FD7D4A8D-9073-4ADD-9E82-A575667F3717}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="TopUpGiftCardPoundSymbol" ID="{FD7D4A8D-9073-4ADD-9E82-A575667F3717}" FileName="Regions\TopUpGiftCardPoundSymbol.png" Update="True" />
+		</child>
+	</children>
+</Root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="StartScreenStepDefs" />
+		<folder name="PaymentScreenStepDefs" />
+		<folder name="Pages">
+			<child name="WelcomeScreenPage" key="{12C7B344-899B-47B2-A459-A2FD32B10A80}" path="Pages\WelcomeScreenPage.js" />
+			<child name="ScanningScreenPage" key="{661D76E9-4126-459A-8A48-D827B5A9385E}" path="Pages\ScanningScreenPage.js" />
+			<child name="BagSelectionScreenPage" key="{53B433D3-0035-4C5E-B0C3-8574DF2F519F}" path="Pages\BagSelectionScreenPage.js" />
+			<child name="PaymentScreenPage" key="{95896CE6-E164-40D0-9518-6356764D7436}" path="Pages\PaymentScreenPage.js" />
+		</folder>
+		<child name="StepDefinitions" key="{1CE91D05-6A60-46D3-9C6E-E618D6CAB84B}" path="StepDefinitions.js" />
+		<child name="commonfunctions" key="{595386B0-B224-4B19-B05E-BF7781B2458C}" path="commonfunctions.js" />
+		<child name="Recovery" key="{33C5C699-D12C-47FF-9E4C-484530950401}" path="Recovery.js" />
+	</children>
+</Root>

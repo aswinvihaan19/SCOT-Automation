@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{41B0A2AE-95B1-40BA-B744-3DB3F6E0D1E3}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ageInterventionRejectionImages" />
+	<testData />
+	<data>
+		<item caption="NoIDRejectionImage" moniker="{C94851AD-AA8D-4F95-B78A-E1BDBEC26DF1}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\NoIDRejectionImage.png" initialHash="43E1CEDC" selectionLeft="642" selectionTop="306" selectionWidth="262" selectionHeight="51" initialLeft="642" initialTop="306" initialWidth="262" initialHeight="51" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="UnderAgeRejectionImage" moniker="{C95FF53C-248F-4572-BA8E-1A4B29E7C603}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\UnderAgeRejectionImage.png" initialHash="EDA6E516" selectionLeft="372" selectionTop="362" selectionWidth="264" selectionHeight="49" initialLeft="372" initialTop="362" initialWidth="264" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="IntoxicatedRejectionImage" moniker="{FD7A9954-B614-4F0B-A958-627E534BA91E}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\IntoxicatedRejectionImage.png" initialHash="7A2B6995" selectionLeft="643" selectionTop="364" selectionWidth="261" selectionHeight="45" initialLeft="643" initialTop="364" initialWidth="261" initialHeight="45" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="ApproveImage" moniker="{1ECCC651-24DB-4827-A738-5B51B889D7D5}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ApproveImage.png" initialHash="00000000" selectionLeft="381" selectionTop="308" selectionWidth="249" selectionHeight="49" initialLeft="381" initialTop="308" initialWidth="249" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

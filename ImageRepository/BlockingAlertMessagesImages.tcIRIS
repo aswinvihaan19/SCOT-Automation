@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{9638ECB7-017F-4903-B410-B07B6EEF6393}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="BlockingAlertMessagesImages" />
+	<testData />
+	<data>
+		<item caption="SalesMessageImage" moniker="{8A3FB8D3-1FBB-41A6-88D3-3EAD633FFB53}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\SalesMessageImage.png" initialHash="22AF430B" selectionLeft="362" selectionTop="164" selectionWidth="283" selectionHeight="49" initialLeft="362" initialTop="164" initialWidth="283" initialHeight="49" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="QtyRestrictionMessageImage" moniker="{6B64EA87-A5D4-4309-81B6-B3AA542B6439}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\QtyRestrictionMessageImage.png" initialHash="1218184A" selectionLeft="236" selectionTop="225" selectionWidth="547" selectionHeight="428" initialLeft="236" initialTop="225" initialWidth="547" initialHeight="428" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="ItemNotFoundMessageImage" moniker="{51FEA25F-7FA7-4D4A-8AEE-42CEDB33CA23}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\ItemNotFoundMessageImage.png" initialHash="88CFF3EF" selectionLeft="491" selectionTop="140" selectionWidth="386" selectionHeight="34" initialLeft="491" initialTop="140" initialWidth="386" initialHeight="34" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="RedAlertMessage" moniker="{983D0CAD-FE58-46B4-8AD2-47EFEE88F74E}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\RedAlertMessage.png" initialHash="B5ED840C" selectionLeft="547" selectionTop="174" selectionWidth="279" selectionHeight="32" initialLeft="547" initialTop="174" initialWidth="279" initialHeight="32" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="BulkRtmInterventionImage" moniker="{52CEBB9E-1CE8-4761-B39F-451B17B58E14}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\BulkRtmInterventionImage.png" initialHash="A2360A77" selectionLeft="366" selectionTop="166" selectionWidth="336" selectionHeight="40" initialLeft="366" initialTop="166" initialWidth="336" initialHeight="40" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="BulkRtmRestrictionNotForSaleImage" moniker="{CEA60C0D-73A9-41D7-99AB-9BCCE934B593}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\BulkRestrictionNotForSaleImage.png" initialHash="DFF1AD33" selectionLeft="366" selectionTop="164" selectionWidth="406" selectionHeight="55" initialLeft="366" initialTop="164" initialWidth="406" initialHeight="55" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="UnRestrictedSupplierImage" moniker="{EAA48368-C5C6-4336-B7D2-51400229C66E}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\UnRestrictedSupplierImage.png" initialHash="C19B2303" selectionLeft="649" selectionTop="311" selectionWidth="240" selectionHeight="42" initialLeft="649" initialTop="311" initialWidth="240" initialHeight="42" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="productRestrictionUnRestrictedSupplierButtonImage" moniker="{600999DC-5765-4DB1-B052-E739DF181614}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\productRestrictionUnRestrictedSupplierButtonImage.png" initialHash="AC8DF14F" selectionLeft="379" selectionTop="311" selectionWidth="249" selectionHeight="40" initialLeft="379" initialTop="311" initialWidth="249" initialHeight="40" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+		<item caption="productRestrictionAlertMessageImage" moniker="{56BD3541-614B-4393-A930-FC7282E8E514}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\productRestrictionAlertMessageImage_1.png" initialHash="00000000" selectionLeft="366" selectionTop="174" selectionWidth="168" selectionHeight="30" initialLeft="366" initialTop="174" initialWidth="168" initialHeight="30" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>

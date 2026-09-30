@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{302E54A8-7D5B-4593-9563-357C2734256B}" version="1400" key="{458D7968-DA24-4335-803E-C334E7A023C1}" typeId="{302E54A8-7D5B-4593-9563-357C2734256B}">
+	<config nodeName="ColleagueMenuLaneOptions" />
+	<testData />
+	<data>
+		<item caption="OpenLaneButton" moniker="{3ECF0A11-BE82-459D-B97A-1460DE13606A}" isComposite="False" simpleMode="True" currentImageIndex="0">
+			<image imageFileName="Data\OpenLaneButton_1.png" initialHash="00000000" selectionLeft="404" selectionTop="245" selectionWidth="168" selectionHeight="36" initialLeft="404" initialTop="245" initialWidth="168" initialHeight="36" pixelTolerance="0" colorTolerance="0" deviceName="" />
+		</item>
+	</data>
+</Root>
