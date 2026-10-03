@@ -1,0 +1,44 @@
+name: Run scripts in Test Complete
+
+on:
+  workflow_dispatch:
+
+jobs:
+  runtimecheck:
+    runs-on: [self-hosted, TL-3C7C3FCD568C]
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Display Workspace
+        shell: powershell
+        run: |
+          Write-Host "Workspace:"
+          Write-Host $env:GITHUB_WORKSPACE
+
+      - name: Create Log Folder
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory `
+            -Path "$env:GITHUB_WORKSPACE\logs" `
+            -Force
+
+      - name: Run ScotAutomationFramework
+        shell: powershell
+        run: |
+          & "C:\Program Files (x86)\SmartBear\TestComplete 15\Bin\TestComplete.exe" `
+            "$env:GITHUB_WORKSPACE\ScotAutomationFramework.pjs" `
+            /r `
+            /e `
+            /Timeout:3600 `
+            /ExportLog:"$env:GITHUB_WORKSPACE\logs\runlog.mht" `
+            /ExportSummary:"$env:GITHUB_WORKSPACE\logs\junit.xml"
+
+      - name: Publish Reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: runtimecheck-results
+          path: logs
